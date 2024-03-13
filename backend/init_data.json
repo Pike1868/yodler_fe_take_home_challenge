@@ -1,0 +1,51 @@
+{
+  "data": {
+    "1" : {
+      "id": 1,
+      "email": "kyle@getyodlr.com",
+      "firstName": "Kyle",
+      "lastName": "White",
+      "password": "$2b$10$o12LomQHQM2JKhk3XOR0euTprw.oHOKZkO79EFgkD9NhS0m.cwipK",
+      "state": "active",
+      "isAdmin": true
+    },
+    "2" : {
+      "id": 2,
+      "email": "jane@getyodlr.com",
+      "firstName": "Jane",
+      "lastName": "Stone",
+      "password": "$2b$10$DLgJ5Y9UkJXwWuwgUFT6Ce0mfdAkKrijnHaSKdgWAo2g6DeK/QPcu",
+      "state": "active",
+      "isAdmin": true
+    },
+    "3" : {
+      "id": 3,
+      "email": "lilly@getyodlr.com",
+      "firstName": "Lilly",
+      "lastName": "Smith",
+      "password": "$2b$10$4UWGdU16a1oD2cC2clyunucslLl13pz9xk.876kpNArQEyaOHALnG",
+      "state": "pending",
+      "isAdmin": false
+    },
+    "4" : {
+      "id": 4,
+      "email": "fred@getyodlr.com",
+      "firstName": "Fred",
+      "lastName": "Miles",
+      "password": "$2b$10$Qy236rNjOqAvA6MpTmql6ehPBwYQHx63bZmbfwOPNQA9kmQ1f4N4u",
+      "state": "pending",
+      "isAdmin": false
+    },
+    "5" : {
+      "id": 5,
+      "email": "alex@getyodlr.com",
+      "firstName": "Alexandra",
+      "lastName": "Betts",
+      "password": "$2b$10$jI.t3tpm/oHfA9kE.PmYMuI7hLBHw//okXfD2xYZOt8iwEbXx0ycO",
+      "state": "pending",
+      "isAdmin": false
+    }
+  }
+    
+  
+}
